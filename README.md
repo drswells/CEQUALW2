@@ -8,6 +8,8 @@ The current model release is Version 4.5. The model release includes executables
 
 Model Capabilities: Longitudinal-vertical hydrodynamics and water quality in stratified and non-stratified systems, nutrients-dissolved oxygen-organic matter interactions, fish habitat, selective withdrawal from stratified reservoir outlets, hypolimnetic aeration, multiple algae, epiphyton/periphyton, zooplankton, macrophyte, CBOD, sediment diagenesis model (Version 4),and generic water quality groups, internal dynamic pipe/culvert model, hydraulic structures (weirs, spillways) algorithms including for submerged and 2-way flow over submerged hydraulic structures, dynamic shading algorithm based on topographic and vegetative cover.
 
+Current updates coming include Hg modeling, Taste and Odor compound modeling, HDF5 model output, more options for outlet hydraulics.
+
 Model Limitations: Well-mixed in lateral direction (but can be used in a Quasi-3-D mode by use of additional model branches), hydrostatic assumption for vertical momentum equation.
 
 Model Training: The next W2 workshop is scheduled for Summer 2024. There will be options for in-person and virtual attendance.
