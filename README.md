@@ -12,6 +12,6 @@ Current updates coming include Hg modeling, Taste and Odor compound modeling, HD
 
 Model Limitations: Well-mixed in lateral direction (but can be used in a Quasi-3-D mode by use of additional model branches), hydrostatic assumption for vertical momentum equation.
 
-Model Training: The next W2 workshop is scheduled for Summer 2024. There will be options for in-person and virtual attendance.
+Model Training: The next W2 workshop is scheduled for June 24-28 2024. There will be options for in-person and virtual attendance.
 
-See the wiki for update information. The last model update was September 23, 2023.
+See the wiki for update information. The last model update was January 18, 2024.
